@@ -1,0 +1,32 @@
+
+Header{/* Резюме */
+    margin: auto;
+    font-size:200%;
+
+}
+.BlockName{/*ФИ группа*/
+    margin: auto;
+    font-size: 130%;
+    color: #3746ca;
+    text-shadow: 0 0 20px #d82ea5;
+    
+}
+.PositionButton{
+    font-size: 150%;
+    margin: auto;
+    position: fixed;
+    top: 100px;
+    left: 500px;
+}
+.Picture{
+    margin: auto;
+    height: 400px;
+    width: 400px;
+}
+.Text{/*Мои достжения*/
+    font-size: 200%;
+    width: 600px;
+    background: #c91cc0; /* Цвет фона */
+    border: 5px solid #bf3067; /* Рамка */
+    border-radius: 10px; /* Радиус скругления */
+}
