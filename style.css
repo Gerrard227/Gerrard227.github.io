@@ -30,3 +30,6 @@ Header{/* Резюме */
     border: 5px solid #bf3067; /* Рамка */
     border-radius: 10px; /* Радиус скругления */
 }
+.Text:hover{/*Изменение цвета текста при наведении*/
+    color:aqua;
+}

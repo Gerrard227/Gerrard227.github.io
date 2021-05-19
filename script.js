@@ -1,4 +1,4 @@
-var  name="Ваша Фамилия";
+var  name="Графов Николай";
 document.getElementById('SecondName').innerHTML= name;
 function rename(){
     var input = document.getElementById('txt').value;

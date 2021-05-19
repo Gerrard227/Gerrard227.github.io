@@ -9,7 +9,7 @@ if (x < y) {
     alert("Наименьшее = "+ y)
 }
 //Индивидуальное задание 2
-var admin, name=('Ваше Имя');
+var admin, name=('Николай');
 admin=name;
 alert("admin "+ admin)
 //Индивидуальное задание 3
